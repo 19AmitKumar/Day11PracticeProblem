@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DecreasingTriangleStarPattern.cs" />
     <Compile Include="DuplicateElementInArray.cs" />
     <Compile Include="FrequencyOfArray.cs" />
     <Compile Include="MaxMinElementInArray.cs" />

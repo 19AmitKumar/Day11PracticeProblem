@@ -36,6 +36,10 @@ namespace Day11Problem
                         MaxMinElementInArray m=new MaxMinElementInArray();
                         m.MaxMin();
                         break;
+                        case 5:
+                        DecreasingTriangle e= new DecreasingTriangle();
+                        e.TriangleStarPattern();
+                        break;
 
 
 
