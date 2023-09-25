@@ -32,6 +32,10 @@ namespace Day11Problem
                         FrequencyOfArray f=new FrequencyOfArray();
                         f.Frequency();
                         break;
+                        case 4:
+                        MaxMinElementInArray m=new MaxMinElementInArray();
+                        m.MaxMin();
+                        break;
 
 
 

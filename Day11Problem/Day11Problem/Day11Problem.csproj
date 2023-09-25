@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="DuplicateElementInArray.cs" />
     <Compile Include="FrequencyOfArray.cs" />
+    <Compile Include="MaxMinElementInArray.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UniqueElementInArray.cs" />
