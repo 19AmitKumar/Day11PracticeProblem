@@ -25,7 +25,7 @@ namespace Day11Problem
                         d.Element();
                         break;
                         case 2:
-                        UniqueElement u=new UniqueElement();
+                        UniqueElement u = new UniqueElement();
                         u.Unique();
                         break;
 
