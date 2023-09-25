@@ -28,6 +28,10 @@ namespace Day11Problem
                         UniqueElement u = new UniqueElement();
                         u.Unique();
                         break;
+                        case 3:
+                        FrequencyOfArray f=new FrequencyOfArray();
+                        f.Frequency();
+                        break;
 
 
 
